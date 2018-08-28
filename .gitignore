@@ -1,0 +1,10 @@
+gl-template
+docfx_project/gl-template
+
+_exported_templates
+docfx_project/_site
+
+yarn-error.log
+
+node_modules
+gl-template.zip
